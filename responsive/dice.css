@@ -1,0 +1,15 @@
+/* 
+    Document   : dice
+    Created on : Mar 3, 2013, 1:35:25 PM
+    Author     : travis
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#nodice { 
+    display: none;
+}
+
+#dice {
+    display: inline;
+}
